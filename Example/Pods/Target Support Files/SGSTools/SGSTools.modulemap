@@ -1,0 +1,6 @@
+framework module SGSTools {
+  umbrella header "SGSTools-umbrella.h"
+
+  export *
+  module * { export * }
+}

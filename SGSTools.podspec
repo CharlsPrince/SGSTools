@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SGSTools'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of SGSTools.'
+  s.summary          = 'SGS工具集'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+SGSTools 是项目常用的工具集，包含SGSError, 将工具集中方便管理。
                        DESC
 
   s.homepage         = 'https://github.com/CharlsPrince/SGSTools'

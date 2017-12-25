@@ -1,0 +1,6 @@
+framework module Pods_SGSTools_Tests {
+  umbrella header "Pods-SGSTools_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
